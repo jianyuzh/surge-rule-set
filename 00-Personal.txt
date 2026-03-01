@@ -1,0 +1,3 @@
+## > Tailor made rules
+# > Gmail SMTP
+DOMAIN-SUFFIX,gmail.com

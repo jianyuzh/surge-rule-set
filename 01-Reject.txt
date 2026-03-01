@@ -1,6 +1,6 @@
-# Ads in Video apps
+# Ads in Video Apps
 
-# > iqiyi & pps
+# > IQIYI & PPS
 DOMAIN-SUFFIX,a.ckm.iqiyi.com
 DOMAIN-SUFFIX,ad.m.iqiyi.com
 DOMAIN-SUFFIX,afp.iqiyi.com
@@ -139,7 +139,7 @@ DOMAIN-SUFFIX,x1.da.hunantv.com
 DOMAIN-SUFFIX,y.da.hunantv.com
 DOMAIN-SUFFIX,y.da.mgtv.com
 
-# > Letv
+# > LeTV
 DOMAIN-SUFFIX,1.letvlive.com
 DOMAIN-SUFFIX,2.letvlive.com
 DOMAIN-SUFFIX,ads1.lfengmobile.com
@@ -163,7 +163,7 @@ DOMAIN-SUFFIX,static.app.m.letv.com
 DOMAIN-SUFFIX,webp2p.letv.com
 DOMAIN-SUFFIX,zamplus.com
 
-# > Youtube
+# > YouTube
 DOMAIN-SUFFIX,azabu-u.ac.jp
 DOMAIN-SUFFIX,couchcoaster.jp
 DOMAIN-SUFFIX,delivery.dmkt-sp.jp
@@ -205,7 +205,7 @@ DOMAIN-SUFFIX,itv.hexun.com
 DOMAIN-SUFFIX,utrack.hexun.com
 URL-REGEX,https?:\/\/h\w{2}\.hxsame\.hexun\.com
 
-# > Vod
+# > VOD
 DOMAIN-SUFFIX,ad.cmvideo.cn
 DOMAIN-SUFFIX,atm.cp31.ott.cibntv.net
 DOMAIN-SUFFIX,aty.cp45.ott.cibntv.net
@@ -254,9 +254,6 @@ DOMAIN-SUFFIX,traffic.uusee.com
 DOMAIN-SUFFIX,union.6.cn
 DOMAIN-SUFFIX,wa.gtimg.com
 DOMAIN-SUFFIX,bfshan.cn
-
-
-
 
 DOMAIN-SUFFIX,0.r.msn.com
 DOMAIN-SUFFIX,000dn.com
@@ -2391,7 +2388,6 @@ DOMAIN-SUFFIX,col.pagechoice.net
 DOMAIN-SUFFIX,collector.githubapp.com
 DOMAIN-SUFFIX,collector.viki.io
 DOMAIN-SUFFIX,collector.wasu.cn
-DOMAIN-SUFFIX,combine.urbanairship.com
 DOMAIN-SUFFIX,com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,com-eonsun-owl-user.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,comesgo.com
@@ -7341,7 +7337,6 @@ DOMAIN-SUFFIX,ups.ksmobile.net
 DOMAIN-SUFFIX,upush.res.meizu.com
 DOMAIN-SUFFIX,uqszvk.code.weddingeeos.com
 DOMAIN-SUFFIX,uqum.52shouyou.com.cn
-DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,urchin.5173.com
 DOMAIN-SUFFIX,urh.tylll.com
 DOMAIN-SUFFIX,urhu.cn
@@ -8206,7 +8201,7 @@ DOMAIN,newloc.map.n.shifen.com
 URL-REGEX,http:\/\/[\s\S]*baidu\.com\/\.*ad[xs]\.php
 URL-REGEX,http:\/\/c\.tieba\.baidu\.com\/c\/s\/splashSchedule
 
-# > Bilibili
+# > BILIBILI
 DOMAIN,miniapp.bilibili.com
 DOMAIN,thirdparty.biliapi.com
 URL-REGEX,https:\/\/app\.bilibili\.com\/x\/v2\/param
@@ -8219,7 +8214,7 @@ URL-REGEX,https:\/\/api\.bilibili\.com\/pgc\/season\/rank\/cn
 # > Didi
 URL-REGEX,https:\/\/img-ys011\.didistatic\.com\/static\/ad_oss\/image-\d{4}-\d{4}\/
 
-# > ele
+# > ELE
 DOMAIN,log.star.ele.me
 
 # > Netease

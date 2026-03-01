@@ -1,0 +1,32 @@
+## > Original rules of PayPal
+# > PayPal
+USER-AGENT,PayPal*
+DOMAIN-KEYWORD,paypal
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+
+## > Tailor made rules
+# > Monzo
+DOMAIN-SUFFIX,monzo.com
+DOMAIN-SUFFIX,monzo-alt.net
+DOMAIN-KEYWORD,monzo
+
+# > Ultra Mobile
+DOMAIN-SUFFIX,ultramobile.com
+
+# > Capital One
+DOMAIN-SUFFIX,capitalone.com
+
+# > SoFi
+DOMAIN-SUFFIX,sofi.com
+
+# > Equifax
+DOMAIN-SUFFIX,equifax.com
+DOMAIN,my.equifax.com
+
+# > Tello
+DOMAIN-SUFFIX,tello.com
+
+# > Revolut
+DOMAIN-SUFFIX,revolut.com
+DOMAIN-KEYWORD,revolut
